@@ -24,6 +24,7 @@
   },
   "eslint.packageManager": "yarn",
   "dependencies": {
-    "@types/node": "^10.3.1"
+    "@types/node": "^10.3.1",
+    "brain.js": "^1.6.0"
   }
 }
