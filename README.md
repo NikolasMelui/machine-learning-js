@@ -12,28 +12,32 @@ Multikey Node.js Boilerplate, powered by [NikolasMelui][nikolasmelui] for [Multi
 
 I want 2 be faster so:
 
-```
+```bash
 $ yarn install
+___
 ```
 
 ### Quick Start
 
 Once everything is installed just run the project:
 
-```
+```bash
 $ yarn start
+___
 ```
 
 If u want 2 use this code in production - transpile to native es5:
 
-```
+```bash
 $ yarn run build
+___
 ```
 
 and run:
 
-```
+```bash
 $ yarn run serve
+___
 ```
 
 ## Development
